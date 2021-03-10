@@ -1,7 +1,8 @@
 # Countdown
 Una app básica con un temporizador para practicar la funcionalidad del setInterval.
 
-##Herramientas
+## Herramientas
+
 - HTML
 - CSS
 - JS
