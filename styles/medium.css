@@ -1,0 +1,26 @@
+header{
+    font-size: 1.3rem;
+    padding-bottom: 100px;
+}
+
+.counter-container{
+    height: 180px;
+    max-width: 700px;
+}
+
+.counter-background{
+    height: 60px;
+}
+
+.counter-item-description{
+    font-size: .8rem;
+}
+
+.counter-item-time{
+    font-size: 4.5rem;
+    top: 15px;
+}
+
+footer{
+    background-image: url('../images/pattern-hills.svg');
+}

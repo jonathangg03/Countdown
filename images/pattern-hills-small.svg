@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 602 197" width="602" height="197">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-786 0L654 0L654 197L-786 197L-786 0Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #211a29 } 
+		.shp1 { fill: #1a1823 } 
+		.shp2 { fill: #2f2439 } 
+	</style>
+	<g id="Layer">
+		<g id="Clip-Path" clip-path="url(#cp1)">
+			<g id="Layer">
+				<path id="Layer" fill-rule="evenodd" class="shp0" d="M654 50.2L302.5 0L163.67 50.2L92 25.1L-230 0L-387.48 50.2L-483.28 25.1L-534.61 41.86L-740.3 0L-786 17.7L-786 160L654 160L654 50.2Z" />
+				<path id="Layer" fill-rule="evenodd" class="shp1" d="M752.99 20.89L702.95 70.34L608.3 1L752.99 20.89ZM483.21 64.91L402.61 70.34L351.28 42.58L483.21 64.91ZM336.4 58.09L255.47 84.15L98 1L336.4 58.09ZM-246.35 55.63L-295.67 84.15L-434.5 1L-246.35 55.63Z" />
+				<path id="Layer" fill-rule="evenodd" class="shp2" d="M-786 84.15L-434.5 1L-295.67 84.15L-224 42.58L98 1L255.47 84.15L351.28 42.58L402.61 70.34L608.3 1L654 30.32L654 266L-786 266L-786 84.15Z" />
+			</g>
+		</g>
+	</g>
+</svg>
